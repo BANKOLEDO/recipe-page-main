@@ -27,7 +27,7 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [My Solution](https://github.com/BANKOLEDO/recipe-page-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
